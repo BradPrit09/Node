@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "REST API with token-based authentication and handling various HTTP status codes as per REST standards.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradPrit09/Node.git"
+  },
+  "keywords": [
+    "REST"
+  ],
+  "author": "Pritam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BradPrit09/Node/issues"
+  },
+  "homepage": "https://github.com/BradPrit09/Node#readme"
+}
